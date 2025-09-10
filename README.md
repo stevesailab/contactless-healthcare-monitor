@@ -18,7 +18,7 @@ This is a Flask-based web application designed to process video input and estima
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/stevesailab/contactless-healthcare-monitoring-.git
    cd healthcare-monitoring-app
    ```
 
