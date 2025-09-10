@@ -1,4 +1,4 @@
-# Healthcare Monitoring App
+# Contactless Healthcare Monitoring
 
 ## Overview
 This is a Flask-based web application designed to process video input and estimate physiological parameters such as **heart rate**, **body temperature**, and **emotion** in real-time. The app uses computer vision and signal processing techniques to analyze facial videos, leveraging libraries like OpenCV, MediaPipe, SciPy, and DeepFace.
@@ -19,7 +19,7 @@ This is a Flask-based web application designed to process video input and estima
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/stevesailab/contactless-healthcare-monitoring-.git
-   cd healthcare-monitoring-app
+   cd contactless-healthcare-monitor
    ```
 
 2. **Create a Virtual Environment**:
