@@ -41,7 +41,7 @@ This is a Flask-based web application designed to process video input and estima
 
 ## Project Structure
 ```
-healthcare-monitoring-app/
+contactless-healthcare-monitor/
 ├── app.py                  # Main Flask application
 ├── routes/
 │   └── video_routes.py     # Routes for video processing and streaming
